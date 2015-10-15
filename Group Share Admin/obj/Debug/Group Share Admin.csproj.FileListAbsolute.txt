@@ -1,0 +1,18 @@
+C:\Users\Null\Documents\Visual Studio 2013\Projects\Group Share KOI\Group Share Admin\bin\Debug\Group Share Admin.exe.config
+C:\Users\Null\Documents\Visual Studio 2013\Projects\Group Share KOI\Group Share Admin\bin\Debug\Group Share Admin.exe
+C:\Users\Null\Documents\Visual Studio 2013\Projects\Group Share KOI\Group Share Admin\bin\Debug\Group Share Admin.pdb
+C:\Users\Null\Documents\Visual Studio 2013\Projects\Group Share KOI\Group Share Admin\obj\Debug\Group Share Admin.csprojResolveAssemblyReference.cache
+C:\Users\Null\Documents\Visual Studio 2013\Projects\Group Share KOI\Group Share Admin\obj\Debug\Group_Share_Admin.Main_Form.resources
+C:\Users\Null\Documents\Visual Studio 2013\Projects\Group Share KOI\Group Share Admin\obj\Debug\Group_Share_Admin.Properties.Resources.resources
+C:\Users\Null\Documents\Visual Studio 2013\Projects\Group Share KOI\Group Share Admin\obj\Debug\Group Share Admin.csproj.GenerateResource.Cache
+C:\Users\Null\Documents\Visual Studio 2013\Projects\Group Share KOI\Group Share Admin\obj\Debug\Group Share Admin.exe
+C:\Users\Null\Documents\Visual Studio 2013\Projects\Group Share KOI\Group Share Admin\obj\Debug\Group Share Admin.pdb
+C:\Users\Null_\Documents\Visual Studio 2013\Projects\Group Share KOI\Group Share Admin\bin\Debug\Group Share Admin.exe.config
+C:\Users\Null_\Documents\Visual Studio 2013\Projects\Group Share KOI\Group Share Admin\bin\Debug\Group Share Admin.exe
+C:\Users\Null_\Documents\Visual Studio 2013\Projects\Group Share KOI\Group Share Admin\obj\Debug\Group Share Admin.csprojResolveAssemblyReference.cache
+C:\Users\Null_\Documents\Visual Studio 2013\Projects\Group Share KOI\Group Share Admin\obj\Debug\Group_Share_Admin.Main_Form.resources
+C:\Users\Null_\Documents\Visual Studio 2013\Projects\Group Share KOI\Group Share Admin\obj\Debug\Group_Share_Admin.Properties.Resources.resources
+C:\Users\Null_\Documents\Visual Studio 2013\Projects\Group Share KOI\Group Share Admin\obj\Debug\Group Share Admin.csproj.GenerateResource.Cache
+C:\Users\Null_\Documents\Visual Studio 2013\Projects\Group Share KOI\Group Share Admin\obj\Debug\Group Share Admin.exe
+C:\Users\Null_\Documents\Visual Studio 2013\Projects\Group Share KOI\Group Share Admin\obj\Debug\Group Share Admin.pdb
+C:\Users\Null_\Documents\Visual Studio 2013\Projects\Group Share KOI\Group Share Admin\bin\Debug\Group Share Admin.pdb

@@ -1,0 +1,12 @@
+C:\Users\Null_\Documents\Visual Studio 2013\Projects\Group Share KOI\Group Share User\bin\Release\Group Share User.exe.config
+C:\Users\Null_\Documents\Visual Studio 2013\Projects\Group Share KOI\Group Share User\bin\Release\Group Share User.exe
+C:\Users\Null_\Documents\Visual Studio 2013\Projects\Group Share KOI\Group Share User\bin\Release\Group Share User.pdb
+C:\Users\Null_\Documents\Visual Studio 2013\Projects\Group Share KOI\Group Share User\obj\Release\Group_Share_User.Controller_Form.CodeShareForm.resources
+C:\Users\Null_\Documents\Visual Studio 2013\Projects\Group Share KOI\Group Share User\obj\Release\Group_Share_User.Main_Form.resources
+C:\Users\Null_\Documents\Visual Studio 2013\Projects\Group Share KOI\Group Share User\obj\Release\Group_Share_User.Controller_Form.PressetionClientForm.resources
+C:\Users\Null_\Documents\Visual Studio 2013\Projects\Group Share KOI\Group Share User\obj\Release\Group_Share_User.Controller_Form.PressetionForm.resources
+C:\Users\Null_\Documents\Visual Studio 2013\Projects\Group Share KOI\Group Share User\obj\Release\Group_Share_User.Properties.Resources.resources
+C:\Users\Null_\Documents\Visual Studio 2013\Projects\Group Share KOI\Group Share User\obj\Release\Group Share User.csproj.GenerateResource.Cache
+C:\Users\Null_\Documents\Visual Studio 2013\Projects\Group Share KOI\Group Share User\obj\Release\Group Share User.exe
+C:\Users\Null_\Documents\Visual Studio 2013\Projects\Group Share KOI\Group Share User\obj\Release\Group Share User.pdb
+C:\Users\Null_\Documents\Visual Studio 2013\Projects\Group Share KOI\Group Share User\obj\Release\Group Share User.csprojResolveAssemblyReference.cache
